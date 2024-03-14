@@ -12,7 +12,7 @@ body:
     id: problem
     attributes:
       label: What model would you like?
-      description: Please provide a link to th model.
+      description: Please provide a link to the model.
   - type: markdown
     attributes:
       value: |
